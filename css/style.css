@@ -1,0 +1,61 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.iphonexxs11pro1row0 {
+  display: flex;
+  margin-left: 9.333333333333334vw;
+  margin-top: 6.527093596059114vh;
+  width: 58.666666666666664vw
+}
+.style0 {
+  display: grid;
+  margin-left: 0;
+  width: 58.666666666666664vw;
+  grid: none/repeat(auto-fit,minmax(100px,1fr));
+  grid-gap: 5.333333333333333vw
+}
+.style1,
+.style2 {
+  background-color: #00ff19;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red
+}
+.style2 {
+  margin-left: 32vw;
+  width: 26.666666666666668vw;
+  min-width: 100px;
+  height: 26.666666666666668vw;
+  flex-grow: 1
+}
+.iphonexxs11pro1row1 {
+  position: relative;
+  display: flex;
+  margin-left: 9.333333333333334vw;
+  margin-top: 21.305418719211822vh;
+  width: 58.666666666666664vw
+}
+.style3,
+.style4 {
+  background-color: #00ff19;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  width: 26.666666666666668vw;
+  min-width: 100px;
+  height: 26.666666666666668vw;
+  flex-grow: 1
+}
+.style3 {
+  margin-left: 0
+}
+.style4 {
+  margin-left: 5.333333333333333vw
+}
+.breakpoint-0 {
+  display: block
+}
